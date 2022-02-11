@@ -1,4 +1,3 @@
-# sparks_iris
 Unsupervised Machine Learning -Kmeans Clustering
 
 From the iris dataset predicted the optimum number of clusters using kmeans clustering and visualised them by using scatter plot
